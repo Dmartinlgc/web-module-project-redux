@@ -1,7 +1,7 @@
 # Redux React Module Project: Movie CRUD
 
 This module explored the redux philosophy, creation of the redux store and using connect to link state and action to arbitrary components.
-
+jhfguhf
 ## Objectives
 - Understand the use and setup of Redux
 - Use Redux to connect existing state and actions to components
